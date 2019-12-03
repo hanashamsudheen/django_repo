@@ -25,7 +25,7 @@ SECRET_KEY = '$3j2@7h-9$d-af!x(@s9z@n05!qg20!0wgt8o6un)v#uvw9s)7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myapp-hana.herokuapp.com']
 
 
 # Application definition
